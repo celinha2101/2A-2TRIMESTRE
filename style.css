@@ -26,7 +26,7 @@ h1{
 
 .cabecalho{
     background-color: var(#ffffff); /*coloca um fundo branco*/
-    display: flex;/*muda a orientação de hrizontal para vertical*/
+    display: flex;/*muda a orientação de horizontal para vertical*/
     justify-content: space-between;/*joga uma div para a esquerda e outra para direita*/
     align-items: center;/*centraliza na vertical como centro*/
 }
